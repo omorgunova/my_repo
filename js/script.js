@@ -1,5 +1,5 @@
 
-<body>
+<body id="id">
 	<a href="javascript:aopen()">Go</a>
 	<a href="javascript:aclose()">Stop</a>
 	<a href="javascript:aprint()">Print</a>
